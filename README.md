@@ -81,7 +81,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaskirat-29&theme=tokyonight&hide_border=true"/>
 </div>
 
-> Replace `your-username` above with your actual GitHub username to activate these cards.
+
 
 <br>
 
