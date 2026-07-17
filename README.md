@@ -14,15 +14,15 @@
 
 - 🎓 B.Tech Computer Science student, graduating in **2028**
 - 📊 Interested in **Data Science, Machine Learning, Artificial Intelligence, and Data Analytics**
-- 🚀 Currently preparing for **Software Engineering and AI/ML internships**
-- 🧠 I believe in learning by **building projects and solving problems**, not just watching tutorials
+- 🚀Building the skills required for future**Software Engineering & AI/ML internships**
+- 🧠 - 💡 I enjoy turning concepts into **projects to strengthen my understanding**
 - 🌱 Early in my journey — focused on building a strong foundation before chasing complexity
 
 <br>
 
 ## 🧰 Tech Stack
 
-### Languages I Know
+### Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
@@ -46,7 +46,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-### 📚 Currently Learning
+### 📚 Currently Exploring
 <p align="left">
   <img src="https://img.shields.io/badge/NumPy-Learning-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-Learning-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -57,17 +57,16 @@
   <img src="https://img.shields.io/badge/Machine%20Learning-Learning-00CED1?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </p>
 
-> ⚠️ Badges above marked **"Learning"** reflect topics I'm actively studying — not tools I've mastered yet. I'd rather be honest about where I am than overstate my skills.
-
+> ⚠️ Badges above marked **"Learning"** reflect topics I'm actively studying — not tools I've mastered yet.These technologies are part of my current learning roadmap and will gradually move into my core skill set as I build projects with them.
 <br>
 
 ## 🎯 Goals for 2026
 
-- [ ] Complete Data Structures & Algorithms
-- [ ] Solve 200+ problems on LeetCode
-- [ ] Build 3–5 solid Machine Learning projects
-- [ ] Create a public AI/ML portfolio
-- [ ] Land a Data Science or AI/ML internship
+  🎯 Complete Data Structures & Algorithms
+  📈Solve 200+ problems on LeetCode
+  🤖Build 3–5 solid Machine Learning projects
+  📂Create a public AI/ML portfolio
+  💼Land a Data Science or AI/ML internship
 
 <br>
 
@@ -79,12 +78,20 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaskirat-29&theme=tokyonight&hide_border=true"/>
 </div>
 
 > Replace `your-username` above with your actual GitHub username to activate these cards.
 
 <br>
+
+## 🚀 Current Focus
+
+- 📚 Mastering Data Structures & Algorithms
+- 🐍 Strengthening Python for Data Science
+- 📊 Learning NumPy & Pandas
+- 🤖 Preparing for Machine Learning
+- 💻 Building GitHub Projects consistently
 
 ## 🎲 Fun Fact
 
